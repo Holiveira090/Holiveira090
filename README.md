@@ -4,7 +4,9 @@
 -  📚 Buscando aprender cada vez mais;
 -  🔭 Atualmente sou um Jovem aprendiz de TI na Digix
 
-![Descrição do GIF](https://smartgirls.com.br/wp-content/uploads/2014/01/gato-4.gif)
+<div align="center">
+  <img src="https://smartgirls.com.br/wp-content/uploads/2014/01/gato-4.gif" alt="Descrição do GIF" />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -19,7 +21,6 @@
   <img width="12" />
 </div>
 
-
 ###
 
 <div align="left">
@@ -27,6 +28,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
