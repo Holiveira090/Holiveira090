@@ -1,4 +1,4 @@
-✨ **Olá! Eu sou Henrique Oliveira!** ✨
+# ✨ **Olá! Eu sou Henrique Oliveira!** ✨
 •  19 anos;
 •  Estudante de Análise e desenvolvimento de sistemas na faculdade Estácio;
 • 🌱 Buscando aprender cada vez mais;
