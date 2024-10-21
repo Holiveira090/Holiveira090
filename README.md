@@ -5,7 +5,7 @@
 -  🔭 Atualmente sou um Jovem aprendiz de TI na Digix
 
 <div align="left">
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://www.linkedin.com/in/henrique-oliveira-silva-2794b82a8/)" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/henrique-oliveira-silva-2794b82a8/" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
