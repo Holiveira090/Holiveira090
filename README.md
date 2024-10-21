@@ -4,10 +4,8 @@
 -  📚 Buscando aprender cada vez mais;
 -  🔭 Atualmente sou um Jovem aprendiz de TI na Digix
 
-<div align="center"
-  width="40px"
-  heigth="40px">
-  <img src="https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif" alt="Descrição do GIF" />
+<div align="center">
+  <img src="https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif" alt="Descrição do GIF" width="200" height="200" />
 </div>
 
 <div align="left">
