@@ -4,7 +4,7 @@
 -  📚 Buscando aprender cada vez mais;
 -  🔭 Atualmente sou um Jovem aprendiz de TI na Digix
 
-![Descrição do GIF](https://i.pinimg.com/originals/fe/c6/e0/fec6e07f6d8d4a951777fe9c5f421e07.gif)
+![Descrição do GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmartgirls.com.br%2Ftag%2Fgif%2F&psig=AOvVaw3fY0E-HS-PFYIlUxm6U7wY&ust=1729626770350000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC6yfufoIkDFQAAAAAdAAAAABBN)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
