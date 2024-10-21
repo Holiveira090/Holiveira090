@@ -5,7 +5,7 @@
 -  🔭 Atualmente sou um Jovem aprendiz de TI na Digix
 
 <div align="center">
-  <img src="https://smartgirls.com.br/wp-content/uploads/2014/01/gato-4.gif" alt="Descrição do GIF" />
+  <img src="https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif" alt="Descrição do GIF" />
 </div>
 
 <div align="left">
