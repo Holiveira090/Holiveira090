@@ -4,4 +4,4 @@
 -  📚 Buscando aprender cada vez mais;
 -  🔭 Atualmente sou um Jovem aprendiz de TI na Digix
 
-![Descrição do GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WCh4ypejUrhI2PbHWPlroymbnw859GYNmw&s)
+![Descrição do GIF](https://i.pinimg.com/originals/fe/c6/e0/fec6e07f6d8d4a951777fe9c5f421e07.gif)
