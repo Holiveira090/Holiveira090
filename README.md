@@ -3,11 +3,6 @@
 -  💻 Estudante de Análise e desenvolvimento de sistemas na faculdade Estácio;
 -  📚 Buscando aprender cada vez mais;
 -  🔭 Atualmente sou um Jovem aprendiz de TI na Digix
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif" alt="Descrição do GIF" width="400" height="400" />
-</div>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
